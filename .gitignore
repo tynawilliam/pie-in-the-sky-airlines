@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jest Coverage Reports
+coverage/
+
+# Environment Variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
