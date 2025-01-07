@@ -52,7 +52,7 @@ If there's no output from diff -q, then the results match the expected output.
 npm test
 ```
 
-Note A coverage report will be generated.
+Note: a coverage report will be generated.
 
 ## Design Notes
 
